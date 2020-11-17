@@ -1,0 +1,4 @@
+.idea/
+venv/
+application/alembic.ini
+application/data/db/db_settings/
